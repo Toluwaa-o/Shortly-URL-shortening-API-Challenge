@@ -147,6 +147,7 @@ header nav p {
 
 .bottomBurger {
     transform: rotate(-42deg);
+    margin-top: -.1em;
 }
 
 .first {
